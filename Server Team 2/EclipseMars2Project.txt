@@ -1,0 +1,1 @@
+This project was created in Eclipse Mars.2 (Java). Needed: Tomcat 8, Java 8
